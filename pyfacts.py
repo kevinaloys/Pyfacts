@@ -1,4 +1,5 @@
 #/usr/bin/python3
+# Pyfact is a fact aggregator. I am still working on a structure ready for scale.
 __author__ = 'Kevin Aloysius'
 import re
 import sys
